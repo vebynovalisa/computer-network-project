@@ -19,7 +19,7 @@ This project was completed collaboratively as an Assurance of Learning (AOL) ass
 
 ## Background
 
-Designing a network for a real, multi-floor building requires more than just connecting devices - it requires understanding room-level device requirements, allocating IP addresses efficiently, and ensuring reliable communication both within and across floors. This project addresses that challenge for three floors of the BINUS Anggrek Building, translating a real floor plan and room requirement dataset into a working, simulated network design.
+Designing a network for a real, multi-floor building requires more than just connecting devices, it requires understanding room-level device requirements, allocating IP addresses efficiently, and ensuring reliable communication both within and across floors. This project addresses that challenge for three floors of the BINUS Anggrek Building, translating a real floor plan and room requirement dataset into a working, simulated network design.
 
 ## Scope
 
