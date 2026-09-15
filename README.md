@@ -84,4 +84,4 @@ computer-network-project/
 ## Notes
 
 - This is a simulation-based academic project; the network was not physically implemented, but all configurations follow an approach similar to a real-world deployment.
-- Room-level device requirements and floor data were provided by the course as part of the assignment, based on the actual BINUS Anggrek Building layout.
+- Room-level device requirements were independently analyzed by the team; the assignment only specified which floors to design for (Floor 2, 3, and 7 of the BINUS Anggrek Building).
